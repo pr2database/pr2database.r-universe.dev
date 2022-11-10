@@ -2,5 +2,9 @@
     {
         "package": "pr2database",
         "url": "https://github.com/pr2database/pr2database"
+    },
+        {
+        "package": "metapr2",
+        "url": "https://github.com/pr2database/metapr2-shiny"
     }
 ]
